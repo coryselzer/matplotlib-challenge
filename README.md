@@ -1,2 +1,2 @@
 # matplotlib-challenge
-This is the Week 5 challenge repository
+In this challenge, we took two different studies of mice and merged them into one clean study.  We then assessed the study using summary statistics, bar/pie charts, line charts and scatter plots to analyze the effectiveness of different drug regimens.  We also calculated and diagrammed the correlation and linear regression model between weight and average tumor volume to help us further analyze the data.
